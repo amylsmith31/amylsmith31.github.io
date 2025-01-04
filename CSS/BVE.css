@@ -62,7 +62,7 @@ header, footer {
     width:70%;
     margin: auto;
     text-align: center; 
-    padding:  20px;
+    padding:  40px;
 }
 
 @media (max-width: 768px) {
